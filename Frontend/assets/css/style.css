@@ -110,6 +110,7 @@ header .navbar a{
 .sidebar h2{
   font-size: 24px;
   color: white;
+  text-align: left;
 }
 
 .sidebar a{
